@@ -8,13 +8,13 @@ const About = () => {
         className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
       >
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-          <div className="pb-8">
+          <div className="sm:pb-8">
             <p className="text-4xl font-bold inline border-b-4 border-gray-500">
               About
             </p>
           </div>
 
-          <p className="text-xl mt-10 sm:mt-20 mb-8">
+          <p className="text-lg mt-10 sm:mt-20 sm:text-xl mb-8">
             I am a passionate Full Stack Developer. I specialize in building web
             applications using modern technologies like React, Node.js, and
             MongoDB. With a keen eye for design and a dedication to crafting
@@ -24,7 +24,7 @@ const About = () => {
             trends.
           </p>
 
-          <p className="text-xl mb-8">
+          <p className="text-lg mb-8 sm:text-xl">
             I have worked on various projects, ranging from e-commerce platforms
             to social networking applications. I am experienced in front-end
             development, creating responsive layouts and implementing
