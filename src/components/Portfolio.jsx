@@ -4,7 +4,7 @@ import netflixClone from "../assets/portfolio/netflixClone.png";
 import chitChat from "../assets/portfolio/chitChat.jpg";
 import ecommerce from "../assets/portfolio/ecommerce.jpg";
 import todoApp from "../assets/portfolio/todoApp.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+import devPortfolio from "../assets/portfolio/devPortfolio.png"
 
 const Portfolio = () => {
   const portfolios = [
@@ -36,9 +36,9 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      src: reactSmooth,
-      demoUrl: "",
-      codeUrl: "",
+      src: devPortfolio,
+      demoUrl: "https://master--incomparable-faloodeh-2ea6c5.netlify.app/",
+      codeUrl: "https://github.com/Dixshant2313/Portfolio",
     },
     {
       id: 6,
