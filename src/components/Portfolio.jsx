@@ -43,8 +43,8 @@ const Portfolio = () => {
     {
       id: 6,
       src: reactWeather,
-      demoUrl: "https://dixshant2313.github.io/Mausam/",
-      codeUrl: "https://github.com/Dixshant2313/Mausam",
+      demoUrl: "https://github.com/Dixshant2313/weatherApp_react",
+      codeUrl: "https://weather-app-react-xji806fbq-dixshant2313.vercel.app/",
     },
   ];
 
