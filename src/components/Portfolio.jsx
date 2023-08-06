@@ -25,13 +25,13 @@ const Portfolio = () => {
     {
       id: 3,
       src: ecommerce,
-      demoUrl: "https://dixshant2313.github.io/Cara-Ecommerce/",
-      codeUrl: "https://github.com/Dixshant2313/Cara-Ecommerce",
+      demoUrl: "https://vercel.com/dixshant2313/shoe-store-frontend",
+      codeUrl: "https://github.com/Dixshant2313/shoe_store-frontend",
     },
     {
       id: 4,
       src: todoApp,
-      demoUrl: "https://todo-react-eight-rho.vercel.app/login",
+      demoUrl: "https://todo-react-eight-rho.vercel.app",
       codeUrl: "https://github.com/Dixshant2313/todo_react",
     },
     {
