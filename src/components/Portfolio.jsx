@@ -25,7 +25,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: ecommerce,
-      demoUrl: "https://vercel.com/dixshant2313/shoe-store-frontend",
+      demoUrl: "https://shoe-store-frontend-kappa.vercel.app",
       codeUrl: "https://github.com/Dixshant2313/shoe_store-frontend",
     },
     {
