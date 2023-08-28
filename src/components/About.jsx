@@ -16,7 +16,7 @@ const About = () => {
 
           <p className="text-lg mt-10 sm:mt-20 sm:text-xl mb-8">
             I am a passionate Full Stack Developer. I specialize in building web
-            applications using modern technologies like React, Node.js, and
+            applications using modern technologies like React, Next.js, Node.js, and
             MongoDB. With a keen eye for design and a dedication to crafting
             high-quality code, I strive to create intuitive and visually
             appealing user experiences. I am constantly seeking opportunities to
